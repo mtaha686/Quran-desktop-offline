@@ -1,6 +1,6 @@
 
 <p align="center">
-<img width="825" height="825" alt="Quran-app-logo" src="https://github.com/user-attachments/assets/62ec5be2-ba9d-49e8-b96d-e21a985a3910" />
+<img width="125" height="125" alt="Quran-app-logo" src="https://github.com/user-attachments/assets/62ec5be2-ba9d-49e8-b96d-e21a985a3910" />
 </p>
 
 <h1 align="center">قرآن دستور حیات — Qurran Desktop</h1>
