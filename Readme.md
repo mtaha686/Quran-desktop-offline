@@ -82,12 +82,6 @@
 - Diacritics-insensitive Arabic search (auto-strips harakaat)
 - Results with highlighted matches, batch selection, export to diary/clipboard
 
-### 🎧 Audio Recitation
-- Per-ayah recitation playback
-- Reciters: **Abdul Basit** (Mujawwad & Murattal)
-- Audio from EveryAyah.com with offline caching
-- Word-by-word audio (77,000+ word audio files)
-- Auto-advance to next ayah + reader sync
 
 ### 🔖 Bookmarks & Diary
 - Ayah bookmarks with personal notes, surah bookmarks
